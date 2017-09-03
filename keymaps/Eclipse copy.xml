@@ -1,0 +1,14 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="FindNext" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="RunToCursor" />
+</keymap>
